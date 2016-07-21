@@ -1,3 +1,3 @@
 # Client-Server-data-exchange
 
-A very basic client-server data exchange program. Still needs to be worked on
+A very basic client-server data exchange program to demonstrate socket programming fundamentals
